@@ -93,3 +93,12 @@ To run this workflow automatically every day in the cloud:
 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | Accepted | 48 ms | python3 | [solution](./solutions/2026-05-23/continuous-subarray-sum.py) |
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
+
+### 2026-05-23
+
+| Problem | Difficulty | Status | Runtime | Language | Code |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | Easy | Accepted | 7 ms | python3 | [solution](./solutions/2026-05-23/find-common-elements-between-two-arrays.py) |
+| [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/) | Easy | Accepted | 3 ms | python3 | [solution](./solutions/2026-05-23/last-visited-integers.py) |
+| [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | Hard | Accepted | 297 ms | python3 | [solution](./solutions/2026-05-23/sum-of-scores-of-built-strings.py) |
+| [Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | Hard | Accepted | 1171 ms | python3 | [solution](./solutions/2026-05-23/minimum-time-to-remove-all-cars-containing-illegal-goods.py) |
