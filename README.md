@@ -81,3 +81,15 @@ To run this workflow automatically every day in the cloud:
 ---
 
 ## Daily Log
+
+### 2026-05-23
+
+| Problem | Difficulty | Status | Runtime | Language | Code |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-23/check-if-array-is-sorted-and-rotated.py) |
+| [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-23/water-bottles.py) |
+| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-23/xor-operation-in-an-array.py) |
+| [Array Nesting](https://leetcode.com/problems/array-nesting/) | Medium | Accepted | 50 ms | python3 | [solution](./solutions/2026-05-23/array-nesting.py) |
+| [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | Accepted | 48 ms | python3 | [solution](./solutions/2026-05-23/continuous-subarray-sum.py) |
+| [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
+| [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
