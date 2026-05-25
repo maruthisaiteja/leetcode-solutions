@@ -94,14 +94,12 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-05-24
+### 2026-05-25
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Jump Game V](https://leetcode.com/problems/jump-game-v/) | Hard | Accepted | 166 ms | python3 | [solution](./solutions/2026-05-24/jump-game-v.py) |
-| [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-24/the-employee-that-worked-on-the-longest-task.py) |
-| [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-24/find-subarrays-with-equal-sum.py) |
-| [Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/) | Medium | Accepted | 3146 ms | python3 | [solution](./solutions/2026-05-24/find-the-number-of-good-pairs-ii.py) |
-| [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | Medium | Accepted | 543 ms | python3 | [solution](./solutions/2026-05-24/maximum-total-damage-with-spell-casting.py) |
-| [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | Accepted | 21 ms | python3 | [solution](./solutions/2026-05-24/swim-in-rising-water.py) |
-| [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard | Accepted | 767 ms | python3 | [solution](./solutions/2026-05-24/bus-routes.py) |
+| [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium | Accepted | 241 ms | python3 | [solution](./solutions/2026-05-25/jump-game-vii.py) |
+| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy | Accepted | 59 ms | python3 | [solution](./solutions/2026-05-25/shuffle-the-array.py) |
+| [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Accepted | 403 ms | python3 | [solution](./solutions/2026-05-25/maximum-number-of-jumps-to-reach-the-last-index.py) |
+| [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | Hard | Accepted | 539 ms | python3 | [solution](./solutions/2026-05-25/profitable-schemes.py) |
+| [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard | Accepted | 8 ms | python3 | [solution](./solutions/2026-05-25/sliding-puzzle.py) |
