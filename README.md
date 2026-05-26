@@ -94,12 +94,12 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-05-25
+### 2026-05-26
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium | Accepted | 241 ms | python3 | [solution](./solutions/2026-05-25/jump-game-vii.py) |
-| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy | Accepted | 59 ms | python3 | [solution](./solutions/2026-05-25/shuffle-the-array.py) |
-| [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Accepted | 403 ms | python3 | [solution](./solutions/2026-05-25/maximum-number-of-jumps-to-reach-the-last-index.py) |
-| [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | Hard | Accepted | 539 ms | python3 | [solution](./solutions/2026-05-25/profitable-schemes.py) |
-| [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard | Accepted | 8 ms | python3 | [solution](./solutions/2026-05-25/sliding-puzzle.py) |
+| [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-26/check-if-binary-string-has-at-most-one-segment-of-ones.py) |
+| [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | Easy | Accepted | 151 ms | python3 | [solution](./solutions/2026-05-26/number-of-rectangles-that-can-form-the-largest-square.py) |
+| [Minimum Number of Operations to Satisfy Conditions](https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/) | Medium | Accepted | 190 ms | python3 | [solution](./solutions/2026-05-26/minimum-number-of-operations-to-satisfy-conditions.py) |
+| [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | Medium | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-26/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k.py) |
+| [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | Hard | Accepted | 173 ms | python3 | [solution](./solutions/2026-05-26/delete-duplicate-folders-in-system.py) |
