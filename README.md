@@ -98,9 +98,9 @@ To run this workflow automatically every day in the cloud:
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | Hard | Accepted | 2381 ms | python3 | [solution](./solutions/2026-05-28/longest-common-suffix-queries.py) |
-| [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | Easy | Accepted | 3 ms | python3 | [solution](./solutions/2026-05-28/projection-area-of-3d-shapes.py) |
-| [DI String Match](https://leetcode.com/problems/di-string-match/) | Easy | Accepted | 3 ms | python3 | [solution](./solutions/2026-05-28/di-string-match.py) |
-| [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | Medium | Accepted | 675 ms | python3 | [solution](./solutions/2026-05-28/earliest-finish-time-for-land-and-water-rides-ii.py) |
-| [Count of Integers](https://leetcode.com/problems/count-of-integers/) | Hard | Accepted | 275 ms | python3 | [solution](./solutions/2026-05-28/count-of-integers.py) |
-| [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | Hard | Accepted | 231 ms | python3 | [solution](./solutions/2026-05-28/split-the-array-to-make-coprime-products.py) |
+| [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | Hard | Accepted | 1892 ms | python3 | [solution](./solutions/2026-05-28/longest-common-suffix-queries.py) |
+| [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-28/longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
+| [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | Easy | Accepted | 191 ms | python3 | [solution](./solutions/2026-05-28/count-the-number-of-incremovable-subarrays-i.py) |
+| [Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | Medium | Accepted | 27 ms | python3 | [solution](./solutions/2026-05-28/minimum-string-length-after-balanced-removals.py) |
+| [Maximize Points After Choosing K Tasks](https://leetcode.com/problems/maximize-points-after-choosing-k-tasks/) | Medium | Accepted | 100 ms | python3 | [solution](./solutions/2026-05-28/maximize-points-after-choosing-k-tasks.py) |
+| [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | Hard | Accepted | 162 ms | python3 | [solution](./solutions/2026-05-28/smallest-rotation-with-highest-score.py) |
