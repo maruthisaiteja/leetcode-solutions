@@ -94,13 +94,13 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-05-28
+### 2026-05-29
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/) | Hard | Accepted | 1892 ms | python3 | [solution](./solutions/2026-05-28/longest-common-suffix-queries.py) |
-| [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-28/longest-strictly-increasing-or-strictly-decreasing-subarray.py) |
-| [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | Easy | Accepted | 191 ms | python3 | [solution](./solutions/2026-05-28/count-the-number-of-incremovable-subarrays-i.py) |
-| [Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | Medium | Accepted | 27 ms | python3 | [solution](./solutions/2026-05-28/minimum-string-length-after-balanced-removals.py) |
-| [Maximize Points After Choosing K Tasks](https://leetcode.com/problems/maximize-points-after-choosing-k-tasks/) | Medium | Accepted | 100 ms | python3 | [solution](./solutions/2026-05-28/maximize-points-after-choosing-k-tasks.py) |
-| [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | Hard | Accepted | 162 ms | python3 | [solution](./solutions/2026-05-28/smallest-rotation-with-highest-score.py) |
+| [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy | Accepted | 3 ms | python3 | [solution](./solutions/2026-05-29/minimum-element-after-replacement-with-digit-sum.py) |
+| [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-29/maximum-score-after-splitting-a-string.py) |
+| [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Easy | Accepted | 9 ms | python3 | [solution](./solutions/2026-05-29/check-if-all-1s-are-at-least-length-k-places-away.py) |
+| [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | Accepted | 480 ms | python3 | [solution](./solutions/2026-05-29/max-number-of-k-sum-pairs.py) |
+| [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard | Accepted | 47 ms | python3 | [solution](./solutions/2026-05-29/find-in-mountain-array.py) |
+| [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | Hard | Accepted | 1316 ms | python3 | [solution](./solutions/2026-05-29/escape-a-large-maze.py) |
