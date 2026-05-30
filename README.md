@@ -94,13 +94,13 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-05-29
+### 2026-05-30
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | Easy | Accepted | 3 ms | python3 | [solution](./solutions/2026-05-29/minimum-element-after-replacement-with-digit-sum.py) |
-| [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-29/maximum-score-after-splitting-a-string.py) |
-| [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Easy | Accepted | 9 ms | python3 | [solution](./solutions/2026-05-29/check-if-all-1s-are-at-least-length-k-places-away.py) |
-| [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | Accepted | 480 ms | python3 | [solution](./solutions/2026-05-29/max-number-of-k-sum-pairs.py) |
-| [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard | Accepted | 47 ms | python3 | [solution](./solutions/2026-05-29/find-in-mountain-array.py) |
-| [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | Hard | Accepted | 1316 ms | python3 | [solution](./solutions/2026-05-29/escape-a-large-maze.py) |
+| [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-30/height-checker.py) |
+| [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | Easy | Accepted | 60 ms | python3 | [solution](./solutions/2026-05-30/distance-between-bus-stops.py) |
+| [Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | Medium | Accepted | 61 ms | python3 | [solution](./solutions/2026-05-30/minimum-number-of-coins-to-be-added.py) |
+| [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/) | Medium | Accepted | 187 ms | python3 | [solution](./solutions/2026-05-30/maximum-good-subarray-sum.py) |
+| [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-30/vertical-order-traversal-of-a-binary-tree.py) |
+| [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard | Accepted | 34 ms | python3 | [solution](./solutions/2026-05-30/recover-a-tree-from-preorder-traversal.py) |
