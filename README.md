@@ -94,13 +94,10 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-05-30
+### 2026-05-31
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-30/height-checker.py) |
-| [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | Easy | Accepted | 60 ms | python3 | [solution](./solutions/2026-05-30/distance-between-bus-stops.py) |
-| [Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | Medium | Accepted | 61 ms | python3 | [solution](./solutions/2026-05-30/minimum-number-of-coins-to-be-added.py) |
-| [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/) | Medium | Accepted | 187 ms | python3 | [solution](./solutions/2026-05-30/maximum-good-subarray-sum.py) |
-| [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-30/vertical-order-traversal-of-a-binary-tree.py) |
-| [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard | Accepted | 34 ms | python3 | [solution](./solutions/2026-05-30/recover-a-tree-from-preorder-traversal.py) |
+| [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | Medium | Accepted | 65 ms | python3 | [solution](./solutions/2026-05-31/destroying-asteroids.py) |
+| [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | Easy | Accepted | 2 ms | python3 | [solution](./solutions/2026-05-31/rearrange-characters-to-make-target-string.py) |
+| [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-31/calculate-amount-paid-in-taxes.py) |
