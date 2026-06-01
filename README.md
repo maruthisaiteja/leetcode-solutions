@@ -94,10 +94,11 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-05-31
+### 2026-06-01
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | Medium | Accepted | 65 ms | python3 | [solution](./solutions/2026-05-31/destroying-asteroids.py) |
-| [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | Easy | Accepted | 2 ms | python3 | [solution](./solutions/2026-05-31/rearrange-characters-to-make-target-string.py) |
-| [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-05-31/calculate-amount-paid-in-taxes.py) |
+| [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | Accepted | 3 ms | python3 | [solution](./solutions/2026-06-01/minimum-cost-of-buying-candies-with-discount.py) |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-06-01/longest-common-prefix.py) |
+| [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-06-01/pascals-triangle-ii.py) |
+| [Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | Medium | Accepted | 377 ms | python3 | [solution](./solutions/2026-06-01/power-grid-maintenance.py) |
