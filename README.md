@@ -94,11 +94,12 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-06-01
+### 2026-06-02
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | Accepted | 3 ms | python3 | [solution](./solutions/2026-06-01/minimum-cost-of-buying-candies-with-discount.py) |
-| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-06-01/longest-common-prefix.py) |
-| [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-06-01/pascals-triangle-ii.py) |
-| [Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/) | Medium | Accepted | 377 ms | python3 | [solution](./solutions/2026-06-01/power-grid-maintenance.py) |
+| [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | Easy | Accepted | 3 ms | python3 | [solution](./solutions/2026-06-02/points-that-intersect-with-cars.py) |
+| [Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) | Medium | Accepted | 95 ms | python3 | [solution](./solutions/2026-06-02/maximum-median-sum-of-subsequences-of-size-3.py) |
+| [Count Prime-Gap Balanced Subarrays](https://leetcode.com/problems/count-prime-gap-balanced-subarrays/) | Medium | Accepted | 3996 ms | python3 | [solution](./solutions/2026-06-02/count-prime-gap-balanced-subarrays.py) |
+| [Apply Operations to Maximize Frequency Score](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/) | Hard | Accepted | 1036 ms | python3 | [solution](./solutions/2026-06-02/apply-operations-to-maximize-frequency-score.py) |
+| [Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/) | Hard | Accepted | 2705 ms | python3 | [solution](./solutions/2026-06-02/find-the-median-of-the-uniqueness-array.py) |
