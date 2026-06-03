@@ -94,12 +94,14 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-06-02
+### 2026-06-03
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | Easy | Accepted | 3 ms | python3 | [solution](./solutions/2026-06-02/points-that-intersect-with-cars.py) |
-| [Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) | Medium | Accepted | 95 ms | python3 | [solution](./solutions/2026-06-02/maximum-median-sum-of-subsequences-of-size-3.py) |
-| [Count Prime-Gap Balanced Subarrays](https://leetcode.com/problems/count-prime-gap-balanced-subarrays/) | Medium | Accepted | 3996 ms | python3 | [solution](./solutions/2026-06-02/count-prime-gap-balanced-subarrays.py) |
-| [Apply Operations to Maximize Frequency Score](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/) | Hard | Accepted | 1036 ms | python3 | [solution](./solutions/2026-06-02/apply-operations-to-maximize-frequency-score.py) |
-| [Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/) | Hard | Accepted | 2705 ms | python3 | [solution](./solutions/2026-06-02/find-the-median-of-the-uniqueness-array.py) |
+| [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | Medium | Accepted | 675 ms | python3 | [solution](./solutions/2026-06-03/earliest-finish-time-for-land-and-water-rides-ii.py) |
+| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | Accepted | 51 ms | python3 | [solution](./solutions/2026-06-03/defanging-an-ip-address.py) |
+| [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | Accepted | 2 ms | python3 | [solution](./solutions/2026-06-03/number-of-equivalent-domino-pairs.py) |
+| [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | Medium | Accepted | 179 ms | python3 | [solution](./solutions/2026-06-03/maximum-beauty-of-an-array-after-applying-operation.py) |
+| [Relocate Marbles](https://leetcode.com/problems/relocate-marbles/) | Medium | Accepted | 53 ms | python3 | [solution](./solutions/2026-06-03/relocate-marbles.py) |
+| [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard | Accepted | 114 ms | python3 | [solution](./solutions/2026-06-03/earliest-possible-day-of-full-bloom.py) |
+| [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | Hard | Accepted | 756 ms | python3 | [solution](./solutions/2026-06-03/maximum-running-time-of-n-computers.py) |
