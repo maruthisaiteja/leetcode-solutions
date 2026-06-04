@@ -94,14 +94,14 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-06-03
+### 2026-06-04
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | Medium | Accepted | 675 ms | python3 | [solution](./solutions/2026-06-03/earliest-finish-time-for-land-and-water-rides-ii.py) |
-| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | Accepted | 51 ms | python3 | [solution](./solutions/2026-06-03/defanging-an-ip-address.py) |
-| [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | Easy | Accepted | 2 ms | python3 | [solution](./solutions/2026-06-03/number-of-equivalent-domino-pairs.py) |
-| [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | Medium | Accepted | 179 ms | python3 | [solution](./solutions/2026-06-03/maximum-beauty-of-an-array-after-applying-operation.py) |
-| [Relocate Marbles](https://leetcode.com/problems/relocate-marbles/) | Medium | Accepted | 53 ms | python3 | [solution](./solutions/2026-06-03/relocate-marbles.py) |
-| [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard | Accepted | 114 ms | python3 | [solution](./solutions/2026-06-03/earliest-possible-day-of-full-bloom.py) |
-| [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | Hard | Accepted | 756 ms | python3 | [solution](./solutions/2026-06-03/maximum-running-time-of-n-computers.py) |
+| [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | Medium | Accepted | 327 ms | python3 | [solution](./solutions/2026-06-04/total-waviness-of-numbers-in-range-i.py) |
+| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Accepted | 38 ms | python3 | [solution](./solutions/2026-06-04/find-all-numbers-disappeared-in-an-array.py) |
+| [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-06-04/keyboard-row.py) |
+| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | Accepted | 117 ms | python3 | [solution](./solutions/2026-06-04/cheapest-flights-within-k-stops.py) |
+| [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | Medium | Accepted | 0 ms | python3 | [solution](./solutions/2026-06-04/monotone-increasing-digits.py) |
+| [Self Crossing](https://leetcode.com/problems/self-crossing/) | Hard | Accepted | 48 ms | python3 | [solution](./solutions/2026-06-04/self-crossing.py) |
+| [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard | Accepted | 113 ms | python3 | [solution](./solutions/2026-06-04/longest-increasing-path-in-a-matrix.py) |
