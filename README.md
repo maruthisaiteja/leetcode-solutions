@@ -94,13 +94,10 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-07-02
+### 2026-07-03
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | Medium | Accepted | 1010 ms | python3 | [solution](./solutions/2026-07-02/find-a-safe-walk-through-a-grid.py) |
-| [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-02/crawler-log-folder.py) |
-| [Reformat Date](https://leetcode.com/problems/reformat-date/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-02/reformat-date.py) |
-| [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | Medium | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-02/sentence-similarity-iii.py) |
-| [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | Medium | Accepted | 52 ms | python3 | [solution](./solutions/2026-07-02/maximum-xor-for-each-query.py) |
-| [Naming a Company](https://leetcode.com/problems/naming-a-company/) | Hard | Accepted | 121 ms | python3 | [solution](./solutions/2026-07-02/naming-a-company.py) |
+| [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-03/find-the-losers-of-the-circular-game.py) |
+| [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-03/buy-two-chocolates.py) |
+| [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium | Accepted | 6594 ms | python3 | [solution](./solutions/2026-07-03/find-the-lexicographically-smallest-valid-sequence.py) |
