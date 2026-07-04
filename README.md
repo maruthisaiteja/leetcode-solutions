@@ -94,10 +94,13 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-07-03
+### 2026-07-04
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-03/find-the-losers-of-the-circular-game.py) |
-| [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-03/buy-two-chocolates.py) |
-| [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium | Accepted | 6594 ms | python3 | [solution](./solutions/2026-07-03/find-the-lexicographically-smallest-valid-sequence.py) |
+| [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | Accepted | 166 ms | python3 | [solution](./solutions/2026-07-04/minimum-score-of-a-path-between-two-cities.py) |
+| [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | Accepted | 27 ms | python3 | [solution](./solutions/2026-07-04/monotonic-array.py) |
+| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Accepted | 1 ms | python3 | [solution](./solutions/2026-07-04/range-sum-of-bst.py) |
+| [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | Medium | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-04/validate-ip-address.py) |
+| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Accepted | 7 ms | python3 | [solution](./solutions/2026-07-04/sort-characters-by-frequency.py) |
+| [Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/) | Hard | Accepted | 179 ms | python3 | [solution](./solutions/2026-07-04/minimum-xor-sum-of-two-arrays.py) |
