@@ -94,13 +94,11 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-07-04
+### 2026-07-05
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | Accepted | 166 ms | python3 | [solution](./solutions/2026-07-04/minimum-score-of-a-path-between-two-cities.py) |
-| [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | Accepted | 27 ms | python3 | [solution](./solutions/2026-07-04/monotonic-array.py) |
-| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | Easy | Accepted | 1 ms | python3 | [solution](./solutions/2026-07-04/range-sum-of-bst.py) |
-| [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | Medium | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-04/validate-ip-address.py) |
-| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Accepted | 7 ms | python3 | [solution](./solutions/2026-07-04/sort-characters-by-frequency.py) |
-| [Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/) | Hard | Accepted | 179 ms | python3 | [solution](./solutions/2026-07-04/minimum-xor-sum-of-two-arrays.py) |
+| [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Hard | Accepted | 116 ms | python3 | [solution](./solutions/2026-07-05/number-of-paths-with-max-score.py) |
+| [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | Easy | Accepted | 314 ms | python3 | [solution](./solutions/2026-07-05/earliest-finish-time-for-land-and-water-rides-i.py) |
+| [Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | Medium | Accepted | 503 ms | python3 | [solution](./solutions/2026-07-05/count-partitions-with-max-min-difference-at-most-k.py) |
+| [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | Hard | Accepted | 10588 ms | python3 | [solution](./solutions/2026-07-05/find-the-number-of-possible-ways-for-an-event.py) |
