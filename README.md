@@ -94,11 +94,12 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-07-05
+### 2026-07-07
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | Hard | Accepted | 116 ms | python3 | [solution](./solutions/2026-07-05/number-of-paths-with-max-score.py) |
-| [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | Easy | Accepted | 314 ms | python3 | [solution](./solutions/2026-07-05/earliest-finish-time-for-land-and-water-rides-i.py) |
-| [Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | Medium | Accepted | 503 ms | python3 | [solution](./solutions/2026-07-05/count-partitions-with-max-min-difference-at-most-k.py) |
-| [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | Hard | Accepted | 10588 ms | python3 | [solution](./solutions/2026-07-05/find-the-number-of-possible-ways-for-an-event.py) |
+| [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-07/concatenate-non-zero-digits-and-multiply-by-sum-i.py) |
+| [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) | Easy | Accepted | 2 ms | python3 | [solution](./solutions/2026-07-07/earliest-time-to-finish-one-task.py) |
+| [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-07/count-partitions-with-even-sum-difference.py) |
+| [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | Accepted | 186 ms | python3 | [solution](./solutions/2026-07-07/smallest-stable-index-ii.py) |
+| [Minimum Increase to Maximize Special Indices](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | Medium | Accepted | 262 ms | python3 | [solution](./solutions/2026-07-07/minimum-increase-to-maximize-special-indices.py) |
