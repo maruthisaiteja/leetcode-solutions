@@ -94,12 +94,14 @@ To run this workflow automatically every day in the cloud:
 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Hard | Accepted | 375 ms | python3 | [solution](./solutions/2026-05-23/form-largest-integer-with-digits-that-add-up-to-target.py) |
 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | Accepted | 87 ms | python3 | [solution](./solutions/2026-05-23/number-of-ways-to-stay-in-the-same-place-after-some-steps.py) |
 
-### 2026-07-07
+### 2026-07-08
 
 | Problem | Difficulty | Status | Runtime | Language | Code |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-07/concatenate-non-zero-digits-and-multiply-by-sum-i.py) |
-| [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) | Easy | Accepted | 2 ms | python3 | [solution](./solutions/2026-07-07/earliest-time-to-finish-one-task.py) |
-| [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-07/count-partitions-with-even-sum-difference.py) |
-| [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | Accepted | 186 ms | python3 | [solution](./solutions/2026-07-07/smallest-stable-index-ii.py) |
-| [Minimum Increase to Maximize Special Indices](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | Medium | Accepted | 262 ms | python3 | [solution](./solutions/2026-07-07/minimum-increase-to-maximize-special-indices.py) |
+| [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium | Accepted | 5735 ms | python3 | [solution](./solutions/2026-07-08/concatenate-non-zero-digits-and-multiply-by-sum-ii.py) |
+| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | Accepted | 85 ms | python3 | [solution](./solutions/2026-07-08/find-words-that-can-be-formed-by-characters.py) |
+| [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | Easy | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-08/occurrences-after-bigram.py) |
+| [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | Medium | Accepted | 193 ms | python3 | [solution](./solutions/2026-07-08/minimum-fuel-cost-to-report-to-the-capital.py) |
+| [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium | Accepted | 0 ms | python3 | [solution](./solutions/2026-07-08/smallest-value-after-replacing-with-sum-of-prime-factors.py) |
+| [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/) | Hard | Accepted | 310 ms | python3 | [solution](./solutions/2026-07-08/recover-the-original-array.py) |
+| [Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | Hard | Accepted | 3443 ms | python3 | [solution](./solutions/2026-07-08/groups-of-strings.py) |
